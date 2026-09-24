@@ -1,0 +1,30 @@
+{
+    "computer_name": "EXAMPLE-PC",
+    "operating_system": "Windows",
+    "os_version": "10.0.26100",
+    "architecture": "AMD64",
+    "processor": "Intel Core i5-12400",
+    "cpu_cores": 6,
+    "cpu_threads": 12,
+    "cpu_frequency_mhz": 4400.0,
+    "cpu_usage_percent": 10.0,
+    "total_ram_gb": 16.0,
+    "used_ram_gb": 7.5,
+    "available_ram_gb": 8.5,
+    "ram_usage_percent": 47.0,
+    "storage": [
+        {
+            "drive": "C:\\",
+            "mountpoint": "C:\\",
+            "filesystem": "NTFS",
+            "total_gb": 476.94,
+            "used_gb": 210.0,
+            "free_gb": 266.94,
+            "usage_percent": 44.0
+        }
+    ],
+    "gpu": [
+        "NVIDIA GeForce RTX 3060"
+    ],
+    "scan_time": "2026-09-24 20:00:00"
+}
